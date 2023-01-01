@@ -31,5 +31,5 @@ https://gist.githubusercontent.com/Vishu-993/07467080a25030084be448e52ba4e2e5/ra
 
 Play Store Search 
 ```
-93511fd1e82201274eef4b9adebc2f4432f2f339/Play%2520Store
+https://gist.githubusercontent.com/Vishu-993/c89aeb60243d071d472bdc3e35c89f9c/raw/93511fd1e82201274eef4b9adebc2f4432f2f339/Play%2520Store
 ```
