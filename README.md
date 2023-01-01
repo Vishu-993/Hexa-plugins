@@ -6,6 +6,23 @@
 
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<h1 align="center"> Bgm at specific word 
+<br> [![join](https://raw.githubusercontent.com/SecktorBot/Brandimages/main/secktor.png)](https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl)
+  <div align="center"  
+<h4 align="center">Plugins</h1>
 
+---
+
+- Create your own plugin and join group to add that plugin in repo.
+
+---
+
+---
+
+<h4 align="center">  BGM </h1>
+
+Bgm at specific word 
+```
 https://gist.githubusercontent.com/Vishu-993/07467080a25030084be448e52ba4e2e5/raw/96a40b5497eb97243c8009c880a78c18118221a2/BGM%2520at%2520specific%2520word
+```
+
+---
